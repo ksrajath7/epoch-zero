@@ -331,8 +331,8 @@ section{
 
 @media(min-width:1000px){
     .svgContainer{
-        padding-left:100px;
-        padding-right:100px;
+        padding-left:200px;
+        padding-right:200px;
     }
 }
 
@@ -351,6 +351,10 @@ section{
     margin-right: 120px;
     grid-row-gap: 0;
 }
+    .svgContainer{
+        padding-left:200px;
+        padding-right:200px;
+    }
 .showItem{
     border-radius: 0;
 }
