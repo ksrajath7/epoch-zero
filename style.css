@@ -231,12 +231,14 @@ section{
     letter-spacing: 2px;
     font-weight: 400;
     font-size: medium;
+    color: white;
 }
 
 .fetaureDescription{
     font-family: 'Inter';
     font-weight: 380;
     line-height: 1.5rem;
+    color: white;
     opacity: 0.7;
     margin-top: 10px;
 }
