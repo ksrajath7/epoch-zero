@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ksrajath7.github.io/epoch-zero/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ksrajath7.github.io/epoch-zero/static/js/main.fb7db7b6.chunk.js",
-    "main.js.map": "/ksrajath7.github.io/epoch-zero/static/js/main.fb7db7b6.chunk.js.map",
-    "runtime-main.js": "/ksrajath7.github.io/epoch-zero/static/js/runtime-main.2950009b.js",
-    "runtime-main.js.map": "/ksrajath7.github.io/epoch-zero/static/js/runtime-main.2950009b.js.map",
-    "static/js/2.e88f2764.chunk.js": "/ksrajath7.github.io/epoch-zero/static/js/2.e88f2764.chunk.js",
-    "static/js/2.e88f2764.chunk.js.map": "/ksrajath7.github.io/epoch-zero/static/js/2.e88f2764.chunk.js.map",
-    "index.html": "/ksrajath7.github.io/epoch-zero/index.html",
-    "precache-manifest.e8ec21b753c5c852faff1a680eb37f1a.js": "/ksrajath7.github.io/epoch-zero/precache-manifest.e8ec21b753c5c852faff1a680eb37f1a.js",
-    "service-worker.js": "/ksrajath7.github.io/epoch-zero/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ksrajath7.github.io/epoch-zero/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e88f2764.chunk.js.LICENSE.txt": "/ksrajath7.github.io/epoch-zero/static/js/2.e88f2764.chunk.js.LICENSE.txt"
+    "main.css": "/epoch-zero/static/css/main.5f361e03.chunk.css",
+    "main.js": "/epoch-zero/static/js/main.f8b8b599.chunk.js",
+    "main.js.map": "/epoch-zero/static/js/main.f8b8b599.chunk.js.map",
+    "runtime-main.js": "/epoch-zero/static/js/runtime-main.fc27c208.js",
+    "runtime-main.js.map": "/epoch-zero/static/js/runtime-main.fc27c208.js.map",
+    "static/js/2.e88f2764.chunk.js": "/epoch-zero/static/js/2.e88f2764.chunk.js",
+    "static/js/2.e88f2764.chunk.js.map": "/epoch-zero/static/js/2.e88f2764.chunk.js.map",
+    "index.html": "/epoch-zero/index.html",
+    "precache-manifest.6b7199158c1a97b4433f347550ee0aa6.js": "/epoch-zero/precache-manifest.6b7199158c1a97b4433f347550ee0aa6.js",
+    "service-worker.js": "/epoch-zero/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/epoch-zero/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e88f2764.chunk.js.LICENSE.txt": "/epoch-zero/static/js/2.e88f2764.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2950009b.js",
+    "static/js/runtime-main.fc27c208.js",
     "static/js/2.e88f2764.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fb7db7b6.chunk.js"
+    "static/js/main.f8b8b599.chunk.js"
   ]
 }
