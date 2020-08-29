@@ -19,6 +19,12 @@ section{
     justify-content: center;
 }
 
+.svgImage{
+    margin:auto;
+    height:auto;
+    width:auto;
+}
+
 #logo{
     animation: fill 0.5s ease forwards 4.5s;
 
@@ -309,6 +315,10 @@ section{
 .showItem{
     border-radius: 0;
 }
+    .svgImage{
+        margin-left:30px;
+        margin-right:30px;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -357,6 +367,10 @@ section{
 .features:hover{
     background-color: #262738;
 }
+    .svgImage{
+        margin-left:60px;
+        margin-right:60px;
+    }
 }
 
 @keyframes line-anim{
