@@ -19,8 +19,14 @@ section{
     justify-content: center;
 }
 
+.svgContainer{
+    flex:1;
+    padding-top:30px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
 .svgImage{
-    margin:auto;
     height:auto;
     width:auto;
 }
@@ -317,13 +323,16 @@ section{
 .showItem{
     border-radius: 0;
 }
-   
+   .svgContainer{
+        padding-left:80px;
+        padding-right:80px;
+    }
 }
 
 @media(min-width:1000px){
-    .svgImage{
-        margin-left:100px;
-        margin-right:100px;
+    .svgContainer{
+        padding-left:100px;
+        padding-right:100px;
     }
 }
 
