@@ -6,3 +6,6 @@ for( let i = 0; i<logo.length; i++ ){
 var gotoWorks = function (){
     window.location.href="./works.html"
 }
+var goto = function (){
+    window.location.href="./src/works.html"
+}
