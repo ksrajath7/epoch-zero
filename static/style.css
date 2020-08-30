@@ -414,7 +414,7 @@ body{
     
 }
     @media (min-width: 1200px) {
-    .footer{position: fixed; grid-template-columns: repeat(4, 1fr); padding-bottom: 60px;padding-top: 60px; padding-left:120px;padding-right:120px;}
+    .footer{grid-template-columns: repeat(4, 1fr); padding-bottom: 60px;padding-top: 60px; padding-left:120px;padding-right:120px;}
 
         .header{
             padding-right: 120px;
