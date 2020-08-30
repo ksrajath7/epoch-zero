@@ -4,5 +4,5 @@ for( let i = 0; i<logo.length; i++ ){
 }
 
 var gotoWorks = function (){
-    window.location.href="src/works.html"
+    window.location.href="./works.html"
 }

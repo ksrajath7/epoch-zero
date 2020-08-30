@@ -139,7 +139,7 @@ body{
 
 
 .projects{
-    background-image: url("./assets/ProBG.jpg");
+    background-image: url("../assets/ProBG.jpg");
     background-position: center;
     background-size: cover;
     
@@ -218,7 +218,7 @@ body{
     height:40px;
     width:40px;
     margin-bottom: 10px;
-    background-image: url("./assets/antimony.svg");
+    background-image: url("../assets/antimony.svg");
     background-position: center;
     background-size: cover;
 }
@@ -238,16 +238,12 @@ body{
 }
 
 .svgContainer{
-    flex:1;
-    background-color:"white";
-    padding-top:50px;
-    padding-left:40px;
-    padding-right:40px;
+    background-color: white;
+   
 }
 
 .svgImage{
-    height:auto;
-    width:auto;
+    top: 50%;
 }
 
 
