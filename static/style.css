@@ -237,13 +237,24 @@ body{
     margin-top: 10px;
 }
 
+.logoLoading{
+    height: 100vh;
+}
+
 .svgContainer{
-    background-color: white;
-   
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    
+  align-items: center;
+  height: 100%;
 }
 
 .svgImage{
-    top: 50%;
+    margin: 0 auto;
+    display: block;
+
+
 }
 
 
@@ -386,6 +397,7 @@ body{
     }
     
     @media (min-width: 800px) {
+        .svgContainer{padding-left:350px;padding-right:350px;}
         .heading{display:block}
     .heading__mobileView{display:none}
     .cards { grid-template-columns: repeat(3, 1fr); }
