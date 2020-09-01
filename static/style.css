@@ -197,12 +197,10 @@ body{
 .cards{
     padding-top: 30px;
     padding-bottom: 30px;
-    padding-right: 10px;
-    padding-left: 10px;
     margin: 0 auto;
     display: grid;
-    grid-column-gap: 20px;
-    grid-row-gap: 20px;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
 }
 
 .features{
@@ -291,7 +289,7 @@ body{
 
 
 .workDetails{
-    /* background-color: #6823ff; */
+    background-color: #6823ff;
     display: flex;
     font-family: Inter;
     flex: 1;
